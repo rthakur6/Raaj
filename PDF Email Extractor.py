@@ -3,7 +3,7 @@ import re
 import fitz  # PyMuPDF
 
 # Define the folder path
-folder_path = '/Volumes/SanDisk/NDA - PDF'
+folder_path = 'Pathname to PDF Folder'
 
 # Function to extract emails from a PDF file
 def extract_emails_from_pdf(filepath):
